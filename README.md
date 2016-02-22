@@ -1,2 +1,1 @@
-# my-world
-my repository
+I Am Ramesh Giri studying at Kathmandu Bernhardt College.
